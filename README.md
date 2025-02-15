@@ -19,5 +19,4 @@ Blinking Text: The restart text blinks to draw attention. This blinking behavior
 
 The code uses the tk.Canvas widget to handle all the drawing operations, and root.after() method to create a game loop that updates the snake's movement and game state at regular intervals. The game logic is contained within several functions that handle movement, drawing, food placement, direction changes, and restarting the game.
 
-Hope this helps! If you need more details or further explanation on any part of the code, just let me know! 😊
 ![image](https://github.com/user-attachments/assets/add5a161-261b-4260-8178-2668240adf50)
