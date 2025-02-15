@@ -1,5 +1,4 @@
 # tkintersnakegame
-![image](https://github.com/user-attachments/assets/add5a161-261b-4260-8178-2668240adf50)
 Snake game in python
 This code is a classic Snake Game implementation using Python's Tkinter library for the graphical interface. The game window is 600x400 pixels, and the snake moves in a grid where each cell is 20x20 pixels. The game's main features include:
 
