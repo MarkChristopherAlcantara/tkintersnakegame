@@ -48,3 +48,8 @@ The code uses the `tk.Canvas` widget to handle all drawing operations, and the `
 - Restarting the game
 
 ![Game Over Screen](https://github.com/user-attachments/assets/add5a161-261b-4260-8178-2668240adf50)
+
+---
+
+© Mark Christopher Alcantara  
+[Facebook Profile](https://www.facebook.com/markchristopher.mediana)
